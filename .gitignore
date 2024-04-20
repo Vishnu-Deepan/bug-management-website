@@ -1,3 +1,10 @@
+customer/backend/node_modules
+customer/frontend/node_modules
+
+manager-teste/backend/node_modules
+manager-teste/frontend/node_modules
+
+
 ### Node ###
 # Logs
 logs
