@@ -57,3 +57,12 @@ Tester Login screen is in :
 Manager Login screen is in :
 	http://localhost:3000/Manager_login
 
+***
+
+SQL file 
+
+1. Open PgAdmin
+2. Create Database - bug_tracking --> right click schema --> Restore
+3. selct the "Bug_Tracking_Tool.sql" in our project to restore
+4. change the password and other requirements in node DB connection files
+
