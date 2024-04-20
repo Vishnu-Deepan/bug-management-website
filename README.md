@@ -4,22 +4,22 @@ This Bug Tracking Tool is a comprehensive project management solution that bridg
 
 Features
 --
-User Roles: Supports different user roles including project managers, developers, and testers, each with tailored permissions and access levels.
-Bug Management: Allows users to create, assign, prioritize, and track bugs throughout the project lifecycle.
-Project Dashboard: Provides a centralized dashboard to monitor the status of bugs, project progress, and team activities.
-Real-time Updates: Enables real-time notifications and updates to keep all team members informed about bug fixes and project developments.
+User Roles: Supports different user roles including project managers, developers, and testers, each with tailored permissions and access levels.<br>
+Bug Management: Allows users to create, assign, prioritize, and track bugs throughout the project lifecycle.<br>
+Project Dashboard: Provides a centralized dashboard to monitor the status of bugs, project progress, and team activities.<br>
+Real-time Updates: Enables real-time notifications and updates to keep all team members informed about bug fixes and project developments.<br>
 
 Technologies Used
 --
-Frontend: React.js for building the user interface.
-Backend: Node.js with Express.js for server-side logic and API development.
-Database: PostgreSQL for storing bug data and user information.
-Authentication: JWT-based authentication for secure user authentication and authorization.
+Frontend: React.js for building the user interface.<br>
+Backend: Node.js with Express.js for server-side logic and API development.<br>
+Database: PostgreSQL for storing bug data and user information.<br>
+Authentication: JWT-based authentication for secure user authentication and authorization.<br>
 
-==
+***
 
-Installation
---
+<h1><strong>Installation</strong></h1>
+
 Customer Screen
 
 React
@@ -35,7 +35,8 @@ Node
 
 Customer Login screen is in :
 	http://localhost:8080
-
+ 
+---
 
 Tester , Manager 
 
